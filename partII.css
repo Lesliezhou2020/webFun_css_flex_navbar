@@ -1,0 +1,37 @@
+#container {
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    vertical-align: center;
+}
+
+img {
+    display: flex;
+    margin: 20px;
+    width: 75px;
+    height: 75px;
+}
+
+h1 {
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+ul {
+    display: flex;
+    align-items: center;
+    vertical-align: center;
+    justify-content: center;
+}
+
+ul li {
+    color: white;
+    display: inline;
+    align-content: center;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}

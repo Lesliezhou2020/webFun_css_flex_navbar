@@ -1,0 +1,12 @@
+.center-box {
+    background: blue;
+    display: flex;
+    justify-content: center;
+}
+
+.center-item {
+    width: 200px;
+    height: 200px;
+    background:white;
+    margin: 50px;
+}
